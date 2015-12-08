@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Culture" xml:space="preserve">
+    <value>de</value>
+  </data>
+  <data name="AccessDeniedTitle" xml:space="preserve">
+    <value>Zugriff verweigert</value>
+  </data>
+  <data name="AdditionalInfoText" xml:space="preserve">
+    <value>Verweisnummer:</value>
+  </data>
+  <data name="ConsentDropDownText" xml:space="preserve">
+    <value>Bestätigung: </value>
+  </data>
+  <data name="FormsSignInHeader" xml:space="preserve">
+    <value>Geben Sie Ihren Benutzernamen und das Kennwort ein.</value>
+  </data>
+  <data name="GenericErrorText" xml:space="preserve">
+    <value>Fehler beim Zugriff auf die Webseite. Versuchen Sie, die Website erneut aufzurufen.</value>
+  </data>
+  <data name="GenericErrorTextFurtherHelp" xml:space="preserve">
+    <value>Wenden Sie sich an den Administrator, wenn das Problem weiterhin besteht. Stellen Sie die Verweisnummer zur Ermittlung des Problems bereit.</value>
+  </data>
+  <data name="HomeRealmSelectionText" xml:space="preserve">
+    <value>Für die Website, auf die Sie zugreifen möchten, ist eine Anmeldung erforderlich. Wählen Sie aus der folgenden Liste Ihre Organisation aus.</value>
+  </data>
+  <data name="IncorrectUsernameText" xml:space="preserve">
+    <value>Der Benutzername oder das Kennwort ist falsch.</value>
+  </data>
+  <data name="LocalSignOutText" xml:space="preserve">
+    <value>Von dieser Website abmelden</value>
+  </data>
+  <data name="NotSignedInText" xml:space="preserve">
+    <value>Sie sind nicht angemeldet.</value>
+  </data>
+  <data name="PasswordLabel" xml:space="preserve">
+    <value>Kennwort: </value>
+  </data>
+  <data name="SignInCurrentSiteRadioButtonText" xml:space="preserve">
+    <value>Bei dieser Website anmelden</value>
+  </data>
+  <data name="SelectASiteText" xml:space="preserve">
+    <value>Wählen Sie eine Website für die Anmeldung aus: </value>
+  </data>
+  <data name="SignedInText" xml:space="preserve">
+    <value>Sie sind angemeldet.</value>
+  </data>
+  <data name="SigningOutText" xml:space="preserve">
+    <value>Abmelden von allen Anwendungen...</value>
+  </data>
+  <data name="SignInText" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+  <data name="SignOutWarning" xml:space="preserve">
+    <value>Zur Erhöhung der Sicherheit wird empfohlen, nach dem Ende der Onlinesitzung alle Browserfenster zu schließen.</value>
+  </data>
+  <data name="SingleSignOutText" xml:space="preserve">
+    <value>Melden Sie sich von allen Websites ab, bei denen Sie angemeldet sind.</value>
+  </data>
+  <data name="SucessfulSignoutText" xml:space="preserve">
+    <value>Sie wurden abgemeldet.</value>
+  </data>
+  <data name="UsernameExample" xml:space="preserve">
+    <value>Beispiel: Domäne\Benutzername</value>
+  </data>
+  <data name="UsernameLabel" xml:space="preserve">
+    <value>Benutzername: </value>
+  </data>
+  <data name="WaitText" xml:space="preserve">
+    <value>Bitte warten...</value>
+  </data>
+  <data name="ConsentExplicit" xml:space="preserve">
+    <value>Ausdrücklich</value>
+  </data>
+  <data name="ConsentImplicit" xml:space="preserve">
+    <value>Konkludent</value>
+  </data>
+  <data name="ConsentInapplicable" xml:space="preserve">
+    <value>Nicht zutreffend</value>
+  </data>
+  <data name="ConsentObtained" xml:space="preserve">
+    <value>Abgerufen</value>
+  </data>
+  <data name="ConsentPrior" xml:space="preserve">
+    <value>Vorherige</value>
+  </data>
+  <data name="ConsentUnavailable" xml:space="preserve">
+    <value>Nicht verfügbar</value>
+  </data>
+  <data name="ConsentUnspecified" xml:space="preserve">
+    <value>Allgemein</value>
+  </data>
+  <data name="FormsSignInButtonText" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+  <data name="HomeRealmSignInButtonText" xml:space="preserve">
+    <value>Anmelden fortsetzen</value>
+  </data>
+  <data name="LanguageDirection" xml:space="preserve">
+    <value>ltr</value>
+  </data>
+  <data name="SelectAsiteRadioButtonText" xml:space="preserve">
+    <value>Wählen Sie eine der folgenden Websites aus:</value>
+  </data>
+  <data name="SignInOtherSiteRadioButtonText" xml:space="preserve">
+    <value>Anmelden bei einer der folgenden Websites:</value>
+  </data>
+  <data name="SignOutButtonText" xml:space="preserve">
+    <value>Abmelden</value>
+  </data>
+  <data name="ErrorPageTitle" xml:space="preserve">
+    <value>Fehler</value>
+  </data>
+  <data name="FormsSignInPageTitle" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+  <data name="HomeRealmDiscoveryPageTitle" xml:space="preserve">
+    <value>Anmelden</value>
+  </data>
+  <data name="IdpInitiatedSignOnPageTitle" xml:space="preserve">
+    <value>Anmeldeseite</value>
+  </data>
+  <data name="SignOutPageTitle" xml:space="preserve">
+    <value>Abmeldeseite</value>
+  </data>
+  <data name="GoButtonText" xml:space="preserve">
+    <value>Los</value>
+  </data>
+  <data name="SigningInText" xml:space="preserve">
+    <value>Anmelden...</value>
+  </data>
+  <data name="UnauthenticatedText" xml:space="preserve">
+    <value>Fehler bei der Authentifizierung. Schließen Sie Ihren Browser, und wiederholen Sie den Versuch bzw. wenden Sie sich für weitere Informationen an den Administrator.</value>
+  </data>
+  <data name="UnauthorizedText" xml:space="preserve">
+    <value>Sie sind nicht berechtigt, auf diese Website zuzugreifen. Wenden Sie sich für weitere Informationen an den Administrator.</value>
+  </data>
+</root>
