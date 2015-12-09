@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=8"><title>
+    Sign In
+</title><link rel="stylesheet" type="text/css" href="../source/MasterPages/StyleSheet2.css"><meta name="robots" content="noindex, nofollow"></head>
+
+<body>
+    <div class="MainArea" runat="server">
+        <div class="Header">
+            Sign In
+        </div>
+        <div class="loginTitle">
+            idp.chalmers.se
+        </div>
+        <div class="login">
+            <div class="username">
+
+                <div class="input">
+                    <input value="testa020" style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDigO/bwqsQAAAfNJREFUOMvNkz1ok2EQx3/39umHmpZWMUVaUEEUpWlQ0QyiCDooFhwcFN2lgqhTEMKTDwsZCw4SQQNOLh20KBgQRZ0kIK2LlBaqtNKhfkRqbHnfvOEc0kCbD0Enb/vD8bu7/93BfxfRaLTfWnuoqq21EWttqFm+s1ZYa692dHRMiUgWEEBEJCMiE/F4PN0IYGq0JyKbgJC19ryq+iKyH0BVZxoBpFbH4/HXInIUmFbVsojsBV6mUqkTTQGxWGy74zhdpVJpxRizw3GcnIi0rFYuA+dUdVFEAr7vf0mn05PrRjDG3ASG29vb6ytUQI9FKs0aY+4Bl2tNdP51a7Lq/kFV3aqqP0QkaIwZ/yvA2kgkEs9F5CQEiAydYbC/i6VPeR7l3uM1ALTU3MEFEYmKCJFLNzg1sA186NsVZl/nAvnp738+JGA34EOQPTs3UP6YY/T2KC8WymwJHaYHgABDw9c5G+6pB4yMjNzyPC8My/zyoKVvkEj4OAO9lUZbAdjI5t5ugp2tzY1JJpOavv9M55ZcVd9VV1XVndE3s8u6Plxtsr42jp0+QvfPCTJ3xvkKeHNT5J88IJsdY74M3yafksncrfuF6kvw9tUHDlyMcOVaBFbmeTj2jqIHxUIJF3A/z7K4WKhfY3WEaieBnjaKhWLTcX8DATq/EhizV6kAAAAASUVORK5CYII=&quot;); background-repeat: no-repeat; background-attachment: scroll; background-position: right center;" name="ctl00$ContentPlaceHolder1$UsernameTextBox" id="ctl00_ContentPlaceHolder1_UsernameTextBox" type="text" placeholder="User name (CID)">
+                </div>
+            </div>
+            <div class="password">
+
+                <div class="input">
+                    <input style="background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAASCAYAAABSO15qAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3QsPDigO/bwqsQAAAfNJREFUOMvNkz1ok2EQx3/39umHmpZWMUVaUEEUpWlQ0QyiCDooFhwcFN2lgqhTEMKTDwsZCw4SQQNOLh20KBgQRZ0kIK2LlBaqtNKhfkRqbHnfvOEc0kCbD0Enb/vD8bu7/93BfxfRaLTfWnuoqq21EWttqFm+s1ZYa692dHRMiUgWEEBEJCMiE/F4PN0IYGq0JyKbgJC19ryq+iKyH0BVZxoBpFbH4/HXInIUmFbVsojsBV6mUqkTTQGxWGy74zhdpVJpxRizw3GcnIi0rFYuA+dUdVFEAr7vf0mn05PrRjDG3ASG29vb6ytUQI9FKs0aY+4Bl2tNdP51a7Lq/kFV3aqqP0QkaIwZ/yvA2kgkEs9F5CQEiAydYbC/i6VPeR7l3uM1ALTU3MEFEYmKCJFLNzg1sA186NsVZl/nAvnp738+JGA34EOQPTs3UP6YY/T2KC8WymwJHaYHgABDw9c5G+6pB4yMjNzyPC8My/zyoKVvkEj4OAO9lUZbAdjI5t5ugp2tzY1JJpOavv9M55ZcVd9VV1XVndE3s8u6Plxtsr42jp0+QvfPCTJ3xvkKeHNT5J88IJsdY74M3yafksncrfuF6kvw9tUHDlyMcOVaBFbmeTj2jqIHxUIJF3A/z7K4WKhfY3WEaieBnjaKhWLTcX8DATq/EhizV6kAAAAASUVORK5CYII=&quot;); background-repeat: no-repeat; background-attachment: scroll; background-position: right center;" name="ctl00$ContentPlaceHolder1$PasswordTextBox" id="ctl00_ContentPlaceHolder1_PasswordTextBox" type="password" placeholder="Password">
+                </div>
+            </div>
+            <div>
+                <div class="TextSizeSmall TextColorError">
+                    <asp:Label ID="ErrorTextLabel" runat="server" Text="" Visible="False"></asp:Label>
+                </div>
+            </div>
+            <div>
+                <div class="RightAlign GroupXLargeMargin">
+                    <input name="ctl00$ContentPlaceHolder1$SubmitButton" value="Sign In" onclick="return AuthIntegrated(this);" id="ctl00_ContentPlaceHolder1_SubmitButton" class="Resizable" type="submit">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -19,43 +19,36 @@
     //-->
     </script>
 
-    <div class="GroupXLargeMargin"><asp:Label Text="<%$ Resources:CommonResources, FormsSignInHeader%>" runat="server" /></div>
-    <table class="UsernamePasswordTable">
-        <tr>
-            <td>
-                <span class="Label"><asp:Label Text="<%$ Resources:CommonResources, UsernameLabel%>" runat="server" /></span>
-            </td>
-            <td>
-                <asp:TextBox runat="server" ID="UsernameTextBox" autocomplete="off"></asp:TextBox>            
-            </td>
-            <td class="TextColorSecondary TextSizeSmall">
+    <div class="loginTitle">
+        <asp:Label Text="<%$ Resources:CommonResources, FormsSignInHeader%>" runat="server" />
+    </div>
+    <div class="login">
+        <div class="username">
+            <div class="input">
+                <asp:TextBox runat="server" ID="UsernameTextBox" autocomplete="off" 
+                             placeholder="<%$ Resources:CommonResources, UsernameLabel%>"></asp:TextBox>            
+            </div>
+            <div class="TextColorSecondary TextSizeSmall">
                 <!--- <appro>
                 <asp:Label Text="<%$ Resources:CommonResources, UsernameExample%>" runat="server" />
                 --->
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <span class="Label"><asp:Label Text="<%$ Resources:CommonResources, PasswordLabel%>" runat="server" /></span>
-            </td>
-            <td>
-                <asp:TextBox runat="server" ID="PasswordTextBox" TextMode="Password" autocomplete="off"></asp:TextBox>            
-            </td>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
-            <td></td>
-            <td colspan="2" class="TextSizeSmall TextColorError">
+            </div>
+        </div>
+        <div class="password">
+            <div class="input">
+                <asp:TextBox runat="server" ID="PasswordTextBox" TextMode="Password" autocomplete="off"
+                             placeholder="<%$ Resources:CommonResources, PasswordLabel%>"></asp:TextBox>
+            </div>
+        </div>
+        <div>
+            <div class="TextSizeSmall TextColorError">
                 <asp:Label ID="ErrorTextLabel" runat="server" Text="" Visible="False"></asp:Label>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2">
-                <div class="RightAlign GroupXLargeMargin">
-                    <asp:Button ID="SubmitButton" runat="server" Text="<%$ Resources:CommonResources, FormsSignInButtonText%>" OnClientClick="return AuthIntegrated(this);" OnClick="SubmitButton_Click" CssClass="Resizable"/>
-                </div>
-            </td>
-            <td>&nbsp;</td>
-        </tr>
-    </table>
+            </div>
+        </div>
+        <div>
+            <div class="RightAlign GroupXLargeMargin">
+                <asp:Button ID="SubmitButton" runat="server" Text="<%$ Resources:CommonResources, FormsSignInButtonText%>" OnClientClick="return AuthIntegrated(this);" OnClick="SubmitButton_Click" CssClass="Resizable"/>
+            </div>
+        </div>
+    </div>
 </asp:Content>

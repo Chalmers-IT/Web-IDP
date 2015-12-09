@@ -14,6 +14,7 @@ public partial class FormsSignIn : FormsLoginPage
 {
     protected void Page_Load( object sender, EventArgs e )
     {
+        UsernameTextBox.Focus();
     }
 
     protected void HandleError( string message )
