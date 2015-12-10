@@ -20,7 +20,8 @@
     </script>
 
     <div class="loginTitle">
-        <asp:Label Text="<%$ Resources:CommonResources, FormsSignInHeader%>" runat="server" />
+		<asp:Label Text="<%$ Resources:CommonResources, FormsSignInHeader%>" runat="server" />
+        <!-- 101514 -->
     </div>
     <div class="login">
         <div class="username">
@@ -28,6 +29,7 @@
                 <asp:TextBox runat="server" ID="UsernameTextBox" autocomplete="off" 
                              placeholder="<%$ Resources:CommonResources, UsernameLabel%>"></asp:TextBox>            
             </div>
+			<br />
             <div class="TextColorSecondary TextSizeSmall">
                 <!--- <appro>
                 <asp:Label Text="<%$ Resources:CommonResources, UsernameExample%>" runat="server" />

@@ -181,7 +181,7 @@
     <value>Example: Domain\username</value>
   </data>
   <data name="UsernameLabel" xml:space="preserve">
-    <value>User name (CID): </value>
+    <value>User name (CID)</value>
   </data>
   <data name="WaitText" xml:space="preserve">
     <value>Please wait...</value>

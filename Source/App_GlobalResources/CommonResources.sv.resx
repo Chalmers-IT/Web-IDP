@@ -181,7 +181,7 @@
     <value>Exempel: domän\användarnamn</value>
   </data>
   <data name="UsernameLabel" xml:space="preserve">
-    <value>Användarnamn (CID): </value>
+    <value>Användarnamn (CID)</value>
   </data>
   <data name="WaitText" xml:space="preserve">
     <value>Vänta...</value>
