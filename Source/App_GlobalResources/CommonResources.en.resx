@@ -151,7 +151,7 @@
     <value>You are not signed in.</value>
   </data>
   <data name="PasswordLabel" xml:space="preserve">
-    <value>Password: </value>
+    <value>Password</value>
   </data>
   <data name="SignInCurrentSiteRadioButtonText" xml:space="preserve">
     <value>Sign in to this site.</value>
@@ -245,6 +245,9 @@
   </data>
   <data name="SigningInText" xml:space="preserve">
     <value>Signing in...</value>
+  </data>
+  <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
   </data>
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>Authentication failed.  Close the browser and try again, or contact your administrator for more

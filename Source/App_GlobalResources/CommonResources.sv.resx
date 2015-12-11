@@ -151,7 +151,7 @@
     <value>Du är inte inloggad.</value>
   </data>
   <data name="PasswordLabel" xml:space="preserve">
-    <value>Lösenord: </value>
+    <value>Lösenord</value>
   </data>
   <data name="SignInCurrentSiteRadioButtonText" xml:space="preserve">
     <value>Logga in på den här webbplatsen.</value>
@@ -245,6 +245,9 @@
   </data>
   <data name="SigningInText" xml:space="preserve">
     <value>Loggar in...</value>
+  </data>
+  <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
   </data>
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>Autentiseringen misslyckades. Stäng webbläsaren och försök igen, eller kontakta administratören om du vill ha mer information.</value>
