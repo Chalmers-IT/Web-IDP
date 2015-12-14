@@ -252,4 +252,7 @@
   <data name="UnauthorizedText" xml:space="preserve">
     <value>Nu deţineţi permisiunea de a accesa acest site. Pentru informaţii suplimentare, contactaţi administratorul dvs.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
 </root>

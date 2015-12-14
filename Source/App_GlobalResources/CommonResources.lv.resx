@@ -252,4 +252,7 @@
   <data name="UnauthorizedText" xml:space="preserve">
     <value>Jūs neesat pilnvarots piekļūt šai vietnei. Lai iegūtu papildinformāciju, sazinieties ar administratoru.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
 </root>

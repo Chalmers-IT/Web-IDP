@@ -252,4 +252,7 @@
   <data name="UnauthorizedText" xml:space="preserve">
     <value>غير مصرح لك بالوصول إلى هذا الموقع. اتصل بالمسؤول للحصول على مزيد من المعلومات.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
 </root>

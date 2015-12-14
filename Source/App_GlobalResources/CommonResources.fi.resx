@@ -249,6 +249,9 @@
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>Todennus epäonnistui. Sulje selain ja yritä uudelleen tai kysy järjestelmänvalvojalta lisätietoja.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
   <data name="UnauthorizedText" xml:space="preserve">
     <value>Sinulla ei ole oikeuksia käyttää tätä sivustoa. Kysy lisätietoja järjestelmänvalvojalta.</value>
   </data>

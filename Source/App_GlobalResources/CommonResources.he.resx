@@ -249,6 +249,9 @@
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>האימות נכשל. סגור את הדפדפן ונסה שוב, או פנה למנהל המערכת לקבלת מידע נוסף.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
   <data name="UnauthorizedText" xml:space="preserve">
     <value>אינך מורשה לגשת לאתר זה. פנה למנהל המערכת לקבלת מידע נוסף.</value>
   </data>

@@ -249,6 +249,9 @@
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>Autentimine nurjus. Sulgege brauser ja proovige uuesti või võtke ühendust oma administraatoriga, et saada lisainfot.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
   <data name="UnauthorizedText" xml:space="preserve">
     <value>Teil ei ole luba saidile ligipääsuks. Lisainfo jaoks võtke ühendust oma administraatoriga.</value>
   </data>

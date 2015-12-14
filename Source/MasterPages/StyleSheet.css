@@ -27,10 +27,18 @@ body {
 	line-height: 190%;
 }
 
+
 .MainActionContainer,
 #DivSignedOut .GroupXLargeMargin{
 	padding-top: 16px;
 	text-align: center
+}
+
+.GroupLargeMargin{
+	margin: 5px auto 8px auto;
+	text-align: left;
+	max-width: 240px;
+
 }
 
 .inner,
@@ -89,6 +97,11 @@ div.password {
 	text-align: center;
 }
 
+.TextWeightBold{
+	font-weight: 600;
+}
+
 .pleaseNoteText .inner {
 	color: #AEAEAE;
 }
+

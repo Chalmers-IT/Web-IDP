@@ -249,6 +249,9 @@
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>Error en la autenticación. Cierre el explorador e inténtelo de nuevo o póngase en contacto con el administrador para obtener información.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
   <data name="UnauthorizedText" xml:space="preserve">
     <value>No está autorizado para obtener acceso en este sitio. Póngase en contacto con el administrador para obtener más información.</value>
   </data>

@@ -252,4 +252,7 @@
   <data name="UnauthorizedText" xml:space="preserve">
     <value>Jums neleidžiama pasiekti šios svetainės. Jei reikia daugiau informacijos, kreipkitės į administratorių.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
 </root>

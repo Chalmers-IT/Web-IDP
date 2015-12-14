@@ -249,6 +249,9 @@
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>Échec de l'authentification. Fermez le navigateur et réessayez, ou contactez votre administrateur pour plus d'informations.</value>
   </data>
+    <data name="FormPleaseNoteText" xml:space="preserve">
+    <value></value>
+  </data>
   <data name="UnauthorizedText" xml:space="preserve">
     <value>Vous n'êtes pas autorisé à accéder à ce site. Pour plus d'informations, contactez votre administrateur.</value>
   </data>
