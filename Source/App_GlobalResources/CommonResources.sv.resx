@@ -207,6 +207,9 @@
   <data name="ConsentUnspecified" xml:space="preserve">
     <value>Ospecificerat</value>
   </data>
+  <data name="FormPleaseNoteText" xml:space="preserve">
+    <value> </value>
+  </data>
   <data name="FormsSignInButtonText" xml:space="preserve">
     <value>Logga in</value>
   </data>
@@ -245,9 +248,6 @@
   </data>
   <data name="SigningInText" xml:space="preserve">
     <value>Loggar in...</value>
-  </data>
-  <data name="FormPleaseNoteText" xml:space="preserve">
-    <value></value>
   </data>
   <data name="UnauthenticatedText" xml:space="preserve">
     <value>Autentiseringen misslyckades. Stäng webbläsaren och försök igen, eller kontakta administratören om du vill ha mer information.</value>
