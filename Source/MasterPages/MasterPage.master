@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" dir='<%$ Resources:CommonResources, LanguageDirection%>' runat="server">
 <head runat="server">
     <title>AD FS 2.0 Authentication Web site</title>
-    <link rel="stylesheet" type="text/css" href="StyleSheet.css?v=3.0.6" />
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css?v=3.0.7" />
     <meta name="robots" content="noindex, nofollow" />
 	<meta name="viewport" content="width=320, initial-scale=1">
 </head>
@@ -12,7 +12,7 @@
     <form id="MainForm" runat="server">
     <div class="MainArea" runat="server">
         <div class="Header">
-            <asp:Label ID="PageTitleLabel" runat="server"></asp:Label>
+            <img src="./App_Themes/Default/Chalmers_black.png" width="250px" />
         </div>
         <%
         string logoPath =

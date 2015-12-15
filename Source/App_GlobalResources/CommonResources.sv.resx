@@ -130,7 +130,7 @@
     <value>Medgivande: </value>
   </data>
   <data name="FormsSignInHeader" xml:space="preserve">
-    <value>Ange användarnamn och lösenord.</value>
+    <value>Ange CID och lösenord.</value>
   </data>
   <data name="GenericErrorText" xml:space="preserve">
     <value>Det gick inte att komma åt webbplatsen. Försök gå till webbplatsen igen.</value>

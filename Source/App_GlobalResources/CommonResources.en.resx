@@ -133,7 +133,7 @@
     <value> </value>
   </data>
   <data name="FormsSignInHeader" xml:space="preserve">
-    <value>Type your user name and password.</value>
+    <value>Type your CID and password.</value>
   </data>
   <data name="GenericErrorText" xml:space="preserve">
     <value>There was a problem accessing the site.  Try to browse to the site again.</value>
