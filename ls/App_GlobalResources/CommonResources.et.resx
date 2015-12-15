@@ -118,141 +118,138 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Culture" xml:space="preserve">
-    <value>sv</value>
+    <value>et</value>
   </data>
   <data name="AccessDeniedTitle" xml:space="preserve">
-    <value>Åtkomst nekad</value>
+    <value>Juurdepääs keelatud</value>
   </data>
   <data name="AdditionalInfoText" xml:space="preserve">
-    <value>Referensnummer:</value>
+    <value>Viitenumber:</value>
   </data>
   <data name="ConsentDropDownText" xml:space="preserve">
-    <value>Medgivande: </value>
+    <value>Nõusolek: </value>
   </data>
   <data name="FormsSignInHeader" xml:space="preserve">
-    <value>Ange användarnamn och lösenord.</value>
+    <value>Sisestage oma kasutajanimi ja parool.</value>
   </data>
   <data name="GenericErrorText" xml:space="preserve">
-    <value>Det gick inte att komma åt webbplatsen. Försök gå till webbplatsen igen.</value>
+    <value>Juurdepääsuga saidile tekkis tõrge. Proovige saidini uuesti sirvida.</value>
   </data>
   <data name="GenericErrorTextFurtherHelp" xml:space="preserve">
-    <value>Kontakta webbplatsadministratören om problemet kvarstår och uppge referensnumret för att identifiera problemet.</value>
+    <value>Kui probleem jätkub, palun võtke ühendust saidi administraatoriga ja edastage viitenumber, et probleem tuvastada.</value>
   </data>
   <data name="HomeRealmSelectionText" xml:space="preserve">
-    <value>Webbplatsen som du försöker komma åt begär att du loggar in. Välj din organisation i följande lista.</value>
+    <value>Sait, kuhu soovite minna, nõuab sisselogimist. Palun valige järgnevast nimekirjast oma organisatsioon.</value>
   </data>
   <data name="IncorrectUsernameText" xml:space="preserve">
-    <value>Användarnamnet eller lösenordet är felaktigt.</value>
+    <value>Kasutajanimi või parool on vale.</value>
   </data>
   <data name="LocalSignOutText" xml:space="preserve">
-    <value>Logga ut från den här webbplatsen.</value>
+    <value>Logi sellelt saidilt välja.</value>
   </data>
   <data name="NotSignedInText" xml:space="preserve">
-    <value>Du är inte inloggad.</value>
+    <value>Te ei ole sisse logitud.</value>
   </data>
   <data name="PasswordLabel" xml:space="preserve">
-    <value>Lösenord</value>
+    <value>Parool: </value>
   </data>
   <data name="SignInCurrentSiteRadioButtonText" xml:space="preserve">
-    <value>Logga in på den här webbplatsen.</value>
+    <value>Logige siia saidile sisse.</value>
   </data>
   <data name="SelectASiteText" xml:space="preserve">
-    <value>Välj en webbplats som du vill logga in på: </value>
+    <value>Valige sait, kuhu sisse logida: </value>
   </data>
   <data name="SignedInText" xml:space="preserve">
-    <value>Du är inloggad.</value>
+    <value>Te olete sisse logitud.</value>
   </data>
   <data name="SigningOutText" xml:space="preserve">
-    <value>Loggar ut från alla program...</value>
+    <value>Kõikidest rakendustest väljalogimine...</value>
   </data>
   <data name="SignInText" xml:space="preserve">
-    <value>logga in</value>
+    <value>logige sisse</value>
   </data>
   <data name="SignOutWarning" xml:space="preserve">
-    <value>Av säkerhetsskäl rekommenderar vi att du stänger alla webbläsarfönster i slutet av onlinesessionen.</value>
+    <value>Lisaturvalisuse eesmärkidel soovitame oma võrguseanssi lõpus kõik brauseriaknad sulgeda.</value>
   </data>
   <data name="SingleSignOutText" xml:space="preserve">
-    <value>Logga ut från alla webbplatser du varit på.</value>
+    <value>Väljalogimine kõikidelt saitidelt, kus olete käinud.</value>
   </data>
   <data name="SucessfulSignoutText" xml:space="preserve">
-    <value>Du har loggat ut.</value>
+    <value>Olete välja loginud.</value>
   </data>
   <data name="UsernameExample" xml:space="preserve">
-    <value>Exempel: domän\användarnamn</value>
+    <value>Nt: domeen\kasutajanimi</value>
   </data>
   <data name="UsernameLabel" xml:space="preserve">
-    <value>Användarnamn (CID)</value>
+    <value>Kasutajanimi: </value>
   </data>
   <data name="WaitText" xml:space="preserve">
-    <value>Vänta...</value>
+    <value>Palun oodake...</value>
   </data>
   <data name="ConsentExplicit" xml:space="preserve">
-    <value>Explicit</value>
+    <value>Ilmne</value>
   </data>
   <data name="ConsentImplicit" xml:space="preserve">
-    <value>Implicit</value>
+    <value>Varjatud</value>
   </data>
   <data name="ConsentInapplicable" xml:space="preserve">
-    <value>Inte tillämpbart</value>
+    <value>Kohaldamatu</value>
   </data>
   <data name="ConsentObtained" xml:space="preserve">
-    <value>Erhållet</value>
+    <value>Kätte saadud</value>
   </data>
   <data name="ConsentPrior" xml:space="preserve">
-    <value>Tidigare</value>
+    <value>Eelnev</value>
   </data>
   <data name="ConsentUnavailable" xml:space="preserve">
-    <value>Ej tillgängligt</value>
+    <value>Kättesaamatu</value>
   </data>
   <data name="ConsentUnspecified" xml:space="preserve">
-    <value>Ospecificerat</value>
-  </data>
-  <data name="FormPleaseNoteText" xml:space="preserve">
-    <value> </value>
+    <value>Täpsustuseta</value>
   </data>
   <data name="FormsSignInButtonText" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Logige sisse</value>
   </data>
   <data name="HomeRealmSignInButtonText" xml:space="preserve">
-    <value>Fortsätt till inloggningssidan</value>
+    <value>Jätka sisselogimisega</value>
   </data>
   <data name="LanguageDirection" xml:space="preserve">
     <value>ltr</value>
   </data>
   <data name="SelectAsiteRadioButtonText" xml:space="preserve">
-    <value>Välj en av följande webbplatser:</value>
+    <value>Valige üks järgnevatest saitidest:</value>
   </data>
   <data name="SignInOtherSiteRadioButtonText" xml:space="preserve">
-    <value>Logga in på en av följande webbplatser:</value>
+    <value>Logige sisse ühele järgnevatest saitidest:</value>
   </data>
   <data name="SignOutButtonText" xml:space="preserve">
-    <value>Logga ut</value>
+    <value>Logige välja</value>
   </data>
   <data name="ErrorPageTitle" xml:space="preserve">
-    <value>Fel</value>
+    <value>viga</value>
   </data>
   <data name="FormsSignInPageTitle" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Logige sisse</value>
   </data>
   <data name="HomeRealmDiscoveryPageTitle" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Logige sisse</value>
   </data>
   <data name="IdpInitiatedSignOnPageTitle" xml:space="preserve">
-    <value>Inloggningssida</value>
+    <value>Sisselogimisleht</value>
   </data>
   <data name="SignOutPageTitle" xml:space="preserve">
-    <value>Utloggningssida</value>
+    <value>Väljalogimisleht</value>
   </data>
   <data name="GoButtonText" xml:space="preserve">
-    <value>Gå till</value>
+    <value>Minge</value>
   </data>
   <data name="SigningInText" xml:space="preserve">
-    <value>Loggar in...</value>
+    <value>Sisselogimine...</value>
   </data>
   <data name="UnauthenticatedText" xml:space="preserve">
-    <value>Autentiseringen misslyckades. Stäng webbläsaren och försök igen, eller kontakta administratören om du vill ha mer information.</value>
+    <value>Autentimine nurjus. Sulgege brauser ja proovige uuesti või võtke ühendust oma administraatoriga, et saada lisainfot.</value>
   </data>
   <data name="UnauthorizedText" xml:space="preserve">
-    <value>Du har inte åtkomsträttigheter till den här webbplatsen. Kontakta administratören om du vill ha mer information.</value>
+    <value>Teil ei ole luba saidile ligipääsuks. Lisainfo jaoks võtke ühendust oma administraatoriga.</value>
   </data>
 </root>

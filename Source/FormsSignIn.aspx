@@ -49,13 +49,14 @@
         </div>
         <div>
             <div class="RightAlign GroupXLargeMargin">
-                <asp:Button ID="SubmitButton" runat="server" Text="<%$ Resources:CommonResources, FormsSignInButtonText%>" OnClientClick="return AuthIntegrated(this);" OnClick="SubmitButton_Click" CssClass="Resizable"/>
+                <asp:Button ID="SubmitButton" runat="server" Text="<%$ Resources:CommonResources, FormsSignInButtonText%>" 
+                    OnClientClick="return AuthIntegrated(this);" OnClick="SubmitButton_Click" CssClass="Resizable"/>
             </div>
         </div>
 		<br />
 		<div class="pleaseNoteText">
-			<div>
-				<asp:Label Text="<%$ Resources:CommonResources, FormPleaseNoteText%>" runat="server" />
+			<div><!--- Resources:CommonResources, FormPleaseNoteText --->
+				<asp:Label Text="" runat="server" />
 			</div>
 		</div>
     </div>

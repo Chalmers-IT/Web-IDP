@@ -118,141 +118,138 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Culture" xml:space="preserve">
-    <value>sv</value>
+    <value>it</value>
   </data>
   <data name="AccessDeniedTitle" xml:space="preserve">
-    <value>Åtkomst nekad</value>
+    <value>Accesso negato</value>
   </data>
   <data name="AdditionalInfoText" xml:space="preserve">
-    <value>Referensnummer:</value>
+    <value>Numero di riferimento:</value>
   </data>
   <data name="ConsentDropDownText" xml:space="preserve">
-    <value>Medgivande: </value>
+    <value>Consenso: </value>
   </data>
   <data name="FormsSignInHeader" xml:space="preserve">
-    <value>Ange användarnamn och lösenord.</value>
+    <value>Immettere nome utente e password.</value>
   </data>
   <data name="GenericErrorText" xml:space="preserve">
-    <value>Det gick inte att komma åt webbplatsen. Försök gå till webbplatsen igen.</value>
+    <value>Si è verificato un problema durante l'accesso al sito. Provare a selezionare nuovamente il sito.</value>
   </data>
   <data name="GenericErrorTextFurtherHelp" xml:space="preserve">
-    <value>Kontakta webbplatsadministratören om problemet kvarstår och uppge referensnumret för att identifiera problemet.</value>
+    <value>Se il problema persiste, contattare l'amministratore del sito e fornire il numero di riferimento per identificare il problema.</value>
   </data>
   <data name="HomeRealmSelectionText" xml:space="preserve">
-    <value>Webbplatsen som du försöker komma åt begär att du loggar in. Välj din organisation i följande lista.</value>
+    <value>È necessario effettuare l'accesso al sito. Selezionare l'organizzazione dall'elenco seguente.</value>
   </data>
   <data name="IncorrectUsernameText" xml:space="preserve">
-    <value>Användarnamnet eller lösenordet är felaktigt.</value>
+    <value>Nome utente o password non corretti.</value>
   </data>
   <data name="LocalSignOutText" xml:space="preserve">
-    <value>Logga ut från den här webbplatsen.</value>
+    <value>Esci dal sito.</value>
   </data>
   <data name="NotSignedInText" xml:space="preserve">
-    <value>Du är inte inloggad.</value>
+    <value>Accesso non effettuato.</value>
   </data>
   <data name="PasswordLabel" xml:space="preserve">
-    <value>Lösenord</value>
+    <value>Password: </value>
   </data>
   <data name="SignInCurrentSiteRadioButtonText" xml:space="preserve">
-    <value>Logga in på den här webbplatsen.</value>
+    <value>Accedi al sito.</value>
   </data>
   <data name="SelectASiteText" xml:space="preserve">
-    <value>Välj en webbplats som du vill logga in på: </value>
+    <value>Selezionare un sito per l'accesso: </value>
   </data>
   <data name="SignedInText" xml:space="preserve">
-    <value>Du är inloggad.</value>
+    <value>Accesso effettuato.</value>
   </data>
   <data name="SigningOutText" xml:space="preserve">
-    <value>Loggar ut från alla program...</value>
+    <value>Disconnessione da tutte le applicazioni in corso...</value>
   </data>
   <data name="SignInText" xml:space="preserve">
-    <value>logga in</value>
+    <value>accedi</value>
   </data>
   <data name="SignOutWarning" xml:space="preserve">
-    <value>Av säkerhetsskäl rekommenderar vi att du stänger alla webbläsarfönster i slutet av onlinesessionen.</value>
+    <value>Per una protezione avanzata, è consigliabile chiudere tutte le finestre del browser alla fine della sessione in linea.</value>
   </data>
   <data name="SingleSignOutText" xml:space="preserve">
-    <value>Logga ut från alla webbplatser du varit på.</value>
+    <value>Uscire da tutti i siti ai quali si è effettuato l'accesso.</value>
   </data>
   <data name="SucessfulSignoutText" xml:space="preserve">
-    <value>Du har loggat ut.</value>
+    <value>Disconnessione effettuata.</value>
   </data>
   <data name="UsernameExample" xml:space="preserve">
-    <value>Exempel: domän\användarnamn</value>
+    <value>Esempio: dominio\nome utente</value>
   </data>
   <data name="UsernameLabel" xml:space="preserve">
-    <value>Användarnamn (CID)</value>
+    <value>Nome utente: </value>
   </data>
   <data name="WaitText" xml:space="preserve">
-    <value>Vänta...</value>
+    <value>Attendere...</value>
   </data>
   <data name="ConsentExplicit" xml:space="preserve">
-    <value>Explicit</value>
+    <value>Esplicito</value>
   </data>
   <data name="ConsentImplicit" xml:space="preserve">
-    <value>Implicit</value>
+    <value>Implicito</value>
   </data>
   <data name="ConsentInapplicable" xml:space="preserve">
-    <value>Inte tillämpbart</value>
+    <value>Non applicabile</value>
   </data>
   <data name="ConsentObtained" xml:space="preserve">
-    <value>Erhållet</value>
+    <value>Ottenuto</value>
   </data>
   <data name="ConsentPrior" xml:space="preserve">
-    <value>Tidigare</value>
+    <value>Precedente</value>
   </data>
   <data name="ConsentUnavailable" xml:space="preserve">
-    <value>Ej tillgängligt</value>
+    <value>Non disponibile</value>
   </data>
   <data name="ConsentUnspecified" xml:space="preserve">
-    <value>Ospecificerat</value>
-  </data>
-  <data name="FormPleaseNoteText" xml:space="preserve">
-    <value> </value>
+    <value>Non specificato</value>
   </data>
   <data name="FormsSignInButtonText" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Accedi</value>
   </data>
   <data name="HomeRealmSignInButtonText" xml:space="preserve">
-    <value>Fortsätt till inloggningssidan</value>
+    <value>Continua l'accesso</value>
   </data>
   <data name="LanguageDirection" xml:space="preserve">
     <value>ltr</value>
   </data>
   <data name="SelectAsiteRadioButtonText" xml:space="preserve">
-    <value>Välj en av följande webbplatser:</value>
+    <value>Selezionare uno dei siti seguenti:</value>
   </data>
   <data name="SignInOtherSiteRadioButtonText" xml:space="preserve">
-    <value>Logga in på en av följande webbplatser:</value>
+    <value>Accedere a uno dei seguenti siti:</value>
   </data>
   <data name="SignOutButtonText" xml:space="preserve">
-    <value>Logga ut</value>
+    <value>Esci</value>
   </data>
   <data name="ErrorPageTitle" xml:space="preserve">
-    <value>Fel</value>
+    <value>Errore</value>
   </data>
   <data name="FormsSignInPageTitle" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Accedi</value>
   </data>
   <data name="HomeRealmDiscoveryPageTitle" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Accedi</value>
   </data>
   <data name="IdpInitiatedSignOnPageTitle" xml:space="preserve">
-    <value>Inloggningssida</value>
+    <value>Pagina di accesso</value>
   </data>
   <data name="SignOutPageTitle" xml:space="preserve">
-    <value>Utloggningssida</value>
+    <value>Pagina di disconnessione</value>
   </data>
   <data name="GoButtonText" xml:space="preserve">
-    <value>Gå till</value>
+    <value>Vai</value>
   </data>
   <data name="SigningInText" xml:space="preserve">
-    <value>Loggar in...</value>
+    <value>Accesso in corso...</value>
   </data>
   <data name="UnauthenticatedText" xml:space="preserve">
-    <value>Autentiseringen misslyckades. Stäng webbläsaren och försök igen, eller kontakta administratören om du vill ha mer information.</value>
+    <value>Autenticazione non riuscita. Chiudere il browser e riprovare oppure contattare l'amministratore per ulteriori informazioni.</value>
   </data>
   <data name="UnauthorizedText" xml:space="preserve">
-    <value>Du har inte åtkomsträttigheter till den här webbplatsen. Kontakta administratören om du vill ha mer information.</value>
+    <value>Non si dispone dell'autorizzazione per accedere al sito. Per ulteriori informazioni, contattare l'amministratore.</value>
   </data>
 </root>

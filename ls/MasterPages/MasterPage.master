@@ -2,10 +2,10 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" dir='<%$ Resources:CommonResources, LanguageDirection%>' runat="server">
 <head runat="server">
+    <meta http-equiv="X-UA-Compatible" content="IE=8" />
     <title>AD FS 2.0 Authentication Web site</title>
-    <link rel="stylesheet" type="text/css" href="StyleSheet.css?v=3.0.6" />
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css" />
     <meta name="robots" content="noindex, nofollow" />
-	<meta name="viewport" content="width=320, initial-scale=1">
 </head>
 
 <body>

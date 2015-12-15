@@ -151,7 +151,7 @@
     <value>Du är inte inloggad.</value>
   </data>
   <data name="PasswordLabel" xml:space="preserve">
-    <value>Lösenord</value>
+    <value>Lösenord: </value>
   </data>
   <data name="SignInCurrentSiteRadioButtonText" xml:space="preserve">
     <value>Logga in på den här webbplatsen.</value>
@@ -181,7 +181,7 @@
     <value>Exempel: domän\användarnamn</value>
   </data>
   <data name="UsernameLabel" xml:space="preserve">
-    <value>Användarnamn (CID)</value>
+    <value>Användarnamn (CID): </value>
   </data>
   <data name="WaitText" xml:space="preserve">
     <value>Vänta...</value>
@@ -206,9 +206,6 @@
   </data>
   <data name="ConsentUnspecified" xml:space="preserve">
     <value>Ospecificerat</value>
-  </data>
-  <data name="FormPleaseNoteText" xml:space="preserve">
-    <value> </value>
   </data>
   <data name="FormsSignInButtonText" xml:space="preserve">
     <value>Logga in</value>

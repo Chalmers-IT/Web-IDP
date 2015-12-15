@@ -118,141 +118,138 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Culture" xml:space="preserve">
-    <value>sv</value>
+    <value>el</value>
   </data>
   <data name="AccessDeniedTitle" xml:space="preserve">
-    <value>Åtkomst nekad</value>
+    <value>Δεν επιτρέπεται η πρόσβαση</value>
   </data>
   <data name="AdditionalInfoText" xml:space="preserve">
-    <value>Referensnummer:</value>
+    <value>Αριθμός αναφοράς:</value>
   </data>
   <data name="ConsentDropDownText" xml:space="preserve">
-    <value>Medgivande: </value>
+    <value>Συγκατάθεση: </value>
   </data>
   <data name="FormsSignInHeader" xml:space="preserve">
-    <value>Ange användarnamn och lösenord.</value>
+    <value>Πληκτρολογήστε το όνομα χρήστη και τον κωδικό πρόσβασής σας.</value>
   </data>
   <data name="GenericErrorText" xml:space="preserve">
-    <value>Det gick inte att komma åt webbplatsen. Försök gå till webbplatsen igen.</value>
+    <value>Πρόεκυψε πρόβλημα κατά την πρόσβαση στην τοποθεσία.  Δοκιμάστε να μεταβείτε ξανά στην τοποθεσία.</value>
   </data>
   <data name="GenericErrorTextFurtherHelp" xml:space="preserve">
-    <value>Kontakta webbplatsadministratören om problemet kvarstår och uppge referensnumret för att identifiera problemet.</value>
+    <value>Εάν το πρόβλημα παραμένει, επικοινωνήστε με το διαχειριστή αυτής της τοποθεσίας και καταχωρήστε τον αριθμό αναφοράς για την αναγνώριση του προβλήματος.</value>
   </data>
   <data name="HomeRealmSelectionText" xml:space="preserve">
-    <value>Webbplatsen som du försöker komma åt begär att du loggar in. Välj din organisation i följande lista.</value>
+    <value>Η τοποθεσία στην οποία εισέρχεστε απαιτεί την εισαγωγή των στοιχείων σας. Επιλέξτε τον οργανισμό σας από την παρακάτω λίστα.</value>
   </data>
   <data name="IncorrectUsernameText" xml:space="preserve">
-    <value>Användarnamnet eller lösenordet är felaktigt.</value>
+    <value>Το όνομα χρήστη και ο κωδικός πρόσβασης δεν είναι σωστά.</value>
   </data>
   <data name="LocalSignOutText" xml:space="preserve">
-    <value>Logga ut från den här webbplatsen.</value>
+    <value>Έξοδος από την τοποθεσία.</value>
   </data>
   <data name="NotSignedInText" xml:space="preserve">
-    <value>Du är inte inloggad.</value>
+    <value>Δεν έχετε πραγματοποιήσει είσοδο.</value>
   </data>
   <data name="PasswordLabel" xml:space="preserve">
-    <value>Lösenord</value>
+    <value>Κωδικός πρόσβασης: </value>
   </data>
   <data name="SignInCurrentSiteRadioButtonText" xml:space="preserve">
-    <value>Logga in på den här webbplatsen.</value>
+    <value>Πραγματοποιήστε είσοδο σε αυτήν την τοποθεσία.</value>
   </data>
   <data name="SelectASiteText" xml:space="preserve">
-    <value>Välj en webbplats som du vill logga in på: </value>
+    <value>Επιλέξτε μία τοποθεσία για είσοδο: </value>
   </data>
   <data name="SignedInText" xml:space="preserve">
-    <value>Du är inloggad.</value>
+    <value>Έχετε πραγματοποιήσει είσοδο.</value>
   </data>
   <data name="SigningOutText" xml:space="preserve">
-    <value>Loggar ut från alla program...</value>
+    <value>Γίνεται έξοδος από όλες τις εφαρμογές...</value>
   </data>
   <data name="SignInText" xml:space="preserve">
-    <value>logga in</value>
+    <value>είσοδος</value>
   </data>
   <data name="SignOutWarning" xml:space="preserve">
-    <value>Av säkerhetsskäl rekommenderar vi att du stänger alla webbläsarfönster i slutet av onlinesessionen.</value>
+    <value>Για περισσότερη ασφάλεια, σάς συνιστούμε να κλείσετε όλα τα παράθυρα του προγράμματος περιήγησης στο τέλος της περιόδου λειτουργίας σας στο διαδίκτυο.</value>
   </data>
   <data name="SingleSignOutText" xml:space="preserve">
-    <value>Logga ut från alla webbplatser du varit på.</value>
+    <value>Πραγματοποιήστε έξοδο από όλες τις τοποθεσίες τις οποίες έχετε επισκεφτεί.</value>
   </data>
   <data name="SucessfulSignoutText" xml:space="preserve">
-    <value>Du har loggat ut.</value>
+    <value>Έχετε πραγματοποιήσει έξοδο.</value>
   </data>
   <data name="UsernameExample" xml:space="preserve">
-    <value>Exempel: domän\användarnamn</value>
+    <value>Παράδειγμα: Τομέας\όνομα χρήστη</value>
   </data>
   <data name="UsernameLabel" xml:space="preserve">
-    <value>Användarnamn (CID)</value>
+    <value>Όνομα χρήστη: </value>
   </data>
   <data name="WaitText" xml:space="preserve">
-    <value>Vänta...</value>
+    <value>Παρακαλώ περιμένετε...</value>
   </data>
   <data name="ConsentExplicit" xml:space="preserve">
-    <value>Explicit</value>
+    <value>Ρητή</value>
   </data>
   <data name="ConsentImplicit" xml:space="preserve">
-    <value>Implicit</value>
+    <value>Έμμεση</value>
   </data>
   <data name="ConsentInapplicable" xml:space="preserve">
-    <value>Inte tillämpbart</value>
+    <value>Δεν ισχύει</value>
   </data>
   <data name="ConsentObtained" xml:space="preserve">
-    <value>Erhållet</value>
+    <value>Έγινε λήψη</value>
   </data>
   <data name="ConsentPrior" xml:space="preserve">
-    <value>Tidigare</value>
+    <value>Προηγούμενη</value>
   </data>
   <data name="ConsentUnavailable" xml:space="preserve">
-    <value>Ej tillgängligt</value>
+    <value>Μη διαθέσιμη</value>
   </data>
   <data name="ConsentUnspecified" xml:space="preserve">
-    <value>Ospecificerat</value>
-  </data>
-  <data name="FormPleaseNoteText" xml:space="preserve">
-    <value> </value>
+    <value>Δεν καθορίζεται</value>
   </data>
   <data name="FormsSignInButtonText" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Είσοδος</value>
   </data>
   <data name="HomeRealmSignInButtonText" xml:space="preserve">
-    <value>Fortsätt till inloggningssidan</value>
+    <value>Συνέχεια εισόδου</value>
   </data>
   <data name="LanguageDirection" xml:space="preserve">
     <value>ltr</value>
   </data>
   <data name="SelectAsiteRadioButtonText" xml:space="preserve">
-    <value>Välj en av följande webbplatser:</value>
+    <value>Επιλέξτε μία από τις παρακάτω τοποθεσίες:</value>
   </data>
   <data name="SignInOtherSiteRadioButtonText" xml:space="preserve">
-    <value>Logga in på en av följande webbplatser:</value>
+    <value>Πραγματοποιήστε είσοδο σε μία από τις παρακάτω τοποθεσίες:</value>
   </data>
   <data name="SignOutButtonText" xml:space="preserve">
-    <value>Logga ut</value>
+    <value>Έξοδος</value>
   </data>
   <data name="ErrorPageTitle" xml:space="preserve">
-    <value>Fel</value>
+    <value>Σφάλμα</value>
   </data>
   <data name="FormsSignInPageTitle" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Είσοδος</value>
   </data>
   <data name="HomeRealmDiscoveryPageTitle" xml:space="preserve">
-    <value>Logga in</value>
+    <value>Είσοδος</value>
   </data>
   <data name="IdpInitiatedSignOnPageTitle" xml:space="preserve">
-    <value>Inloggningssida</value>
+    <value>Σελίδα εισόδου</value>
   </data>
   <data name="SignOutPageTitle" xml:space="preserve">
-    <value>Utloggningssida</value>
+    <value>Σελίδα εξόδου</value>
   </data>
   <data name="GoButtonText" xml:space="preserve">
-    <value>Gå till</value>
+    <value>Μετάβαση</value>
   </data>
   <data name="SigningInText" xml:space="preserve">
-    <value>Loggar in...</value>
+    <value>Γίνεται είσοδος...</value>
   </data>
   <data name="UnauthenticatedText" xml:space="preserve">
-    <value>Autentiseringen misslyckades. Stäng webbläsaren och försök igen, eller kontakta administratören om du vill ha mer information.</value>
+    <value>Ο έλεγχος ταυτότητας απέτυχε.  Κλείστε το πρόγραμμα περιήγησης και δοκιμάστε ξανά ή επικοινωνήστε με το διαχειριστή σας για περισσότερες πληροφορίες.</value>
   </data>
   <data name="UnauthorizedText" xml:space="preserve">
-    <value>Du har inte åtkomsträttigheter till den här webbplatsen. Kontakta administratören om du vill ha mer information.</value>
+    <value>Δεν έχετε δικαίωμα πρόσβασης σε αυτήν την τοποθεσία. Για περισσότερες πληροφορίες, επικοινωνήστε με το διαχειριστή σας.</value>
   </data>
 </root>
